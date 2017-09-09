@@ -309,3 +309,17 @@
   contacts:
     - name: Mark Niebergall
       email: mbniebergall@gmail.com
+
+- name: Madison PHP
+  location: Madison, WI, USA
+  website: http://2017.madisonphpconference.com/
+  meetup: https://www.meetup.com/madisonphp/
+  twitter: https://twitter.com/e3betht
+  contacts:
+    - name: Beth Tucker Long
+      email: beth@treelinedesign.com
+    - name: Jason Endres
+      email: jaendres@gmail.com
+    - name: Clinton Otte-Ford
+      email: ford.clinton@gmail.com
+    
